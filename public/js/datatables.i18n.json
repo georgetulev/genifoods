@@ -1,0 +1,21 @@
+{
+  "sEmptyTable": "Няма данни",
+  "sInfo": "Показани от _START_ до _END_ резултат - от oбщо _TOTAL_",
+  "sInfoEmpty": "Няма намерени резултати",
+  "sInfoFiltered": "(общo резултати _MAX_)",
+  "sInfoPostFix": "",
+  "sInfoThousands": ".",
+  "sSearch": "Търси",
+  "sZeroRecords": "Липсват записи",
+  "oPaginate": {
+    "sFirst": "Първи",
+    "sPrevious": "Предишен",
+    "sNext": "Следващ",
+    "sLast": "Последен"
+  },
+  "oAria": {
+    "sSortAscending": ": aktivieren, um Spalte aufsteigend zu sortieren",
+    "sSortDescending": ": aktivieren, um Spalte absteigend zu sortieren"
+  },
+  "sLengthMenu": "Покажи <select><option value='10'>10</option><option value='25'>25 </option><option value='50'>50 </option><option value='100'>100 </option></select> на страница"
+}
